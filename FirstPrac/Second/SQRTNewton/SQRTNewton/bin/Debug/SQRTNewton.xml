@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SQRTNewton</name>
+    </assembly>
+    <members>
+        <member name="M:SQRTNewton.Form1.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            call-back функция на click event button1 ("вычислить" (Math.Sqrt))
+            </summary>
+        </member>
+        <member name="M:SQRTNewton.Form1.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            call-back функция на click event button2 ("выполнить итерацию")
+            </summary>
+        </member>
+        <member name="M:SQRTNewton.Form1.button3_Click(System.Object,System.EventArgs)">
+            <summary>
+            call-back функция на click event button3 ("вычислить" (Метод Ньютона))
+            </summary>
+        </member>
+        <member name="M:SQRTNewton.Form1.ClearVariables">
+            <summary>
+            функция зануляет переменные CurrentIteration, CurrentGuess, CurrentNextGuess, CurrentNumberDecimal
+            </summary>
+        </member>
+        <member name="M:SQRTNewton.Form1.ClearLabels">
+            <summary>
+            очищает label3, label8, label10, label2 от текста
+            </summary>
+        </member>
+        <member name="M:SQRTNewton.Form1.textBox1_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            call-back функция на TextChanged event у textBox1
+            </summary>
+        </member>
+        <member name="F:SQRTNewton.Form1.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:SQRTNewton.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:SQRTNewton.Form1.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="M:SQRTNewton.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:SQRTNewton.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:SQRTNewton.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:SQRTNewton.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>

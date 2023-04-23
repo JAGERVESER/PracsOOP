@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNOD", "FindNOD\FindNOD.csproj", "{187FBE40-0A76-4796-B9A0-9E234BF2DCDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNODTests", "FindNODTests\FindNODTests.csproj", "{6827EDCA-E342-467C-B0E0-D9505EF38B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187FBE40-0A76-4796-B9A0-9E234BF2DCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187FBE40-0A76-4796-B9A0-9E234BF2DCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187FBE40-0A76-4796-B9A0-9E234BF2DCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187FBE40-0A76-4796-B9A0-9E234BF2DCDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6827EDCA-E342-467C-B0E0-D9505EF38B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6827EDCA-E342-467C-B0E0-D9505EF38B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6827EDCA-E342-467C-B0E0-D9505EF38B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6827EDCA-E342-467C-B0E0-D9505EF38B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51FF4425-83A3-4722-8D65-8096BB9AEA75}
+	EndGlobalSection
+EndGlobal

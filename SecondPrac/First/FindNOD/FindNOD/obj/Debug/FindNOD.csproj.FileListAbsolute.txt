@@ -1,0 +1,11 @@
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\bin\Debug\FindNOD.exe.config
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\bin\Debug\FindNOD.exe
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\bin\Debug\FindNOD.pdb
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\obj\Debug\FindNOD.csproj.AssemblyReference.cache
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\obj\Debug\FindNOD.csproj.SuggestedBindingRedirects.cache
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\obj\Debug\FindNOD.Form1.resources
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\obj\Debug\FindNOD.Properties.Resources.resources
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\obj\Debug\FindNOD.csproj.GenerateResource.cache
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\obj\Debug\FindNOD.csproj.CoreCompileInputs.cache
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\obj\Debug\FindNOD.exe
+E:\ООП\SecondPrac\First\FindNOD\FindNOD\obj\Debug\FindNOD.pdb

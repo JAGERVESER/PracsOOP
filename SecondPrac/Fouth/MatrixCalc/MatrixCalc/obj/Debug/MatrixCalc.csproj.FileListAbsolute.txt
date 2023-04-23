@@ -1,0 +1,16 @@
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.AssemblyReference.cache
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.SuggestedBindingRedirects.cache
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MainWindow.g.cs
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\App.g.cs
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc_MarkupCompile.cache
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc_MarkupCompile.lref
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe.config
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.pdb
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MainWindow.baml
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.g.resources
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.Properties.Resources.resources
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.GenerateResource.cache
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.CoreCompileInputs.cache
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.exe
+E:\ООП\SecondPrac\Fouth\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.pdb

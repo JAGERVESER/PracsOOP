@@ -1,0 +1,11 @@
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\obj\Debug\IntToBin.csproj.AssemblyReference.cache
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\obj\Debug\IntToBin.csproj.SuggestedBindingRedirects.cache
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\obj\Debug\IntToBin.Form1.resources
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\obj\Debug\IntToBin.Properties.Resources.resources
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\obj\Debug\IntToBin.csproj.GenerateResource.cache
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\obj\Debug\IntToBin.csproj.CoreCompileInputs.cache
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\bin\Debug\IntToBin.exe.config
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\bin\Debug\IntToBin.exe
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\bin\Debug\IntToBin.pdb
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\obj\Debug\IntToBin.exe
+E:\ООП\FirstPrac\Third\IntToBin\IntToBin\obj\Debug\IntToBin.pdb
